@@ -5,6 +5,6 @@ deploy:
     skip-cleanup: true
     github-token: $GITHUB_TOKEN
     keep-history: true
-    local-dir: 'Användbara bilder'
+    local-dir: 'website/Användbara bilder'
     on:
         branch: master
