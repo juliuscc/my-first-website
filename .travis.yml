@@ -1,4 +1,4 @@
-script: cp "Användbara bilder/Mobil.html" "Användbara bilder/index.html"
+script: cp "website/Användbara bilder/Mobil.html" "website/Användbara bilder/index.html"
 
 deploy:
     provider: pages
