@@ -1,3 +1,5 @@
+script: cp "Användbara bilder/Mobil.html" "Användbara bilder/index.html"
+
 deploy:
     provider: pages
     skip-cleanup: true
