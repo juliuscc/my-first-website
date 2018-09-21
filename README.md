@@ -1,5 +1,7 @@
 # My first website!
 
+[![Build Status](https://travis-ci.org/juliuscc/my-first-website.svg?branch=master)](https://travis-ci.org/juliuscc/my-first-website)
+
 [Link to website](https://juliuscc.github.io/my-first-website/)
 
 This is my first website ever! I suspect that I struggled with understanding anchor-tags and therefore gave up on ever finishing it. It was created somewhere between 6th of January and 6th of September 2013. I was really into mobile phones and decided to dissasemble an old SonyEricsson P800. I think that my plan was to do the same with multiple phones.
