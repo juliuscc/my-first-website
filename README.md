@@ -12,4 +12,4 @@ I strongly suspect that I wanted to have circuit boards as background. 🤦
 
 ## What has changed since the original
 
-I've added a `README.md` file, a `.gitignore` file, and a `travis.yml` file. I've also removed a few files for legal reasons. Otherwise I have tried to keep it as close to the original as possible. I have even kept the broken html parts.
+I've added a `README.md` file, a `.gitignore` file, and a `travis.yml` file. I've also removed a few files that were not used. Otherwise I have tried to keep it as close to the original as possible. I have even kept the broken html parts.
